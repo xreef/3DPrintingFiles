@@ -71,7 +71,7 @@
       <updated>1602751938934</updated>
       <workItem from="1602751943047" duration="1932000" />
       <workItem from="1605282636572" duration="14000" />
-      <workItem from="1612421621058" duration="1134000" />
+      <workItem from="1612421621058" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="Add ABB Aurora Inverter Case">
       <created>1602757370181</created>
@@ -87,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612422275214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modular hodler basic parts">
+      <created>1612422768725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612422768725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,14 +125,14 @@
       <screen x="-1920" y="280" width="1536" height="832" />
     </state>
     <state x="-1371" y="467" key="FileChooserDialogImpl/-1920.280.1536.832/0.0.1920.1160@-1920.280.1536.832" timestamp="1605282647457" />
-    <state x="461" y="224" key="SettingsEditor" timestamp="1612422755913">
+    <state x="461" y="224" key="SettingsEditor" timestamp="1612422830514">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="461" y="224" key="SettingsEditor/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422755913" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612422277554">
+    <state x="461" y="224" key="SettingsEditor/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422830514" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612422771938">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422277554" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422771938" />
     <state x="681" y="368" key="git4idea.merge.GitPullDialog" timestamp="1612421647156">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
