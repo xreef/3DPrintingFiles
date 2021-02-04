@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1deeed8-8c6d-4fd3-8b33-4b6ba96d03c2" name="Default Changelist" comment="Modular hodler basic parts" />
+    <list default="true" id="e1deeed8-8c6d-4fd3-8b33-4b6ba96d03c2" name="Default Changelist" comment="Modular hodler basic parts">
+      <change afterPath="$PROJECT_DIR$/Modular_Arm_Holder/clamp/clamp.stl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modular_Arm_Holder/clamp/clamp_screw.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modular_Arm_Holder/curve/curve_90_male_female_reversed.stl" beforeDir="false" afterPath="$PROJECT_DIR$/Modular_Arm_Holder/curve/curve_90_male_female_reversed.stl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602758433428" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modular_Arm_Holder/cable_holder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modular_Arm_Holder/clamp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -52,11 +57,11 @@
       <recent name="D:\Projects\3D\3DPrintingFiles\batteryHolder" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\clamp" />
+      <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\curve" />
       <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\cable_holder" />
       <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\screw_knob" />
       <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\round_base_gym_weight" />
-      <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\curve" />
-      <recent name="D:\Projects\3D\3DPrintingFiles\Modular_Arm_Holder\basic_arm" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -71,7 +76,7 @@
       <updated>1602751938934</updated>
       <workItem from="1602751943047" duration="1932000" />
       <workItem from="1605282636572" duration="14000" />
-      <workItem from="1612421621058" duration="1206000" />
+      <workItem from="1612421621058" duration="2623000" />
     </task>
     <task id="LOCAL-00001" summary="Add ABB Aurora Inverter Case">
       <created>1602757370181</created>
@@ -94,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612422768725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Modular hodler basic parts">
+      <created>1612422863322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612422863322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,13 +141,17 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="224" key="SettingsEditor/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422830514" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612422771938">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612422991469">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422771938" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422991469" />
     <state x="681" y="368" key="git4idea.merge.GitPullDialog" timestamp="1612421647156">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="681" y="368" key="git4idea.merge.GitPullDialog/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612421647156" />
+    <state x="760" y="481" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612422977058">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="760" y="481" key="git4idea.remote.GitConfigureRemotesDialog/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422977058" />
   </component>
 </project>
