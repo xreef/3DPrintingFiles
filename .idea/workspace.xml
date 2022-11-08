@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1deeed8-8c6d-4fd3-8b33-4b6ba96d03c2" name="Default Changelist" comment="Modular hodler basic parts">
-      <change afterPath="$PROJECT_DIR$/Modular_Arm_Holder/clamp/clamp.stl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modular_Arm_Holder/clamp/clamp_screw.stl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modular_Arm_Holder/curve/curve_90_male_female_reversed.stl" beforeDir="false" afterPath="$PROJECT_DIR$/Modular_Arm_Holder/curve/curve_90_male_female_reversed.stl" afterDir="false" />
-    </list>
+    <list default="true" id="e1deeed8-8c6d-4fd3-8b33-4b6ba96d03c2" name="Default Changelist" comment="Add clamp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <updated>1602751938934</updated>
       <workItem from="1602751943047" duration="1932000" />
       <workItem from="1605282636572" duration="14000" />
-      <workItem from="1612421621058" duration="2623000" />
+      <workItem from="1612421621058" duration="2654000" />
     </task>
     <task id="LOCAL-00001" summary="Add ABB Aurora Inverter Case">
       <created>1602757370181</created>
@@ -106,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612422863322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add clamp">
+      <created>1612475610321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612475610321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +128,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ABB Aurora Inverter Case" />
     <MESSAGE value="Modular hodler basic parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modular hodler basic parts" />
+    <MESSAGE value="Add clamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add clamp" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="442" key="#Notifications" timestamp="1612422288938">
@@ -141,10 +144,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="224" key="SettingsEditor/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422830514" />
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612422991469">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1612475612436">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612422991469" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/-1920.280.1536.832/0.0.1920.1160@0.0.1920.1160" timestamp="1612475612436" />
     <state x="681" y="368" key="git4idea.merge.GitPullDialog" timestamp="1612421647156">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
